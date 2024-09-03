@@ -1,0 +1,10 @@
+{
+  "extName": {
+    "message": "LEAN GUIDE EXTENSION",
+    "description": "The name of the extension"
+  },
+  "extDescription": {
+    "message": "Adds guides to sites.",
+    "description": "The description of the extension"
+  }
+}
